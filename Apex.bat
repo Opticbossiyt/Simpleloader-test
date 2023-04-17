@@ -1,4 +1,5 @@
-@echo off
+
+@echo Made by Kuro
 
 rem Check if the user has the necessary permissions to run this script
 if not "%PROCESSOR_ARCHITECTURE%" == "AMD64" if not "%PROCESSOR_ARCHITECURE%" == "x86" (
