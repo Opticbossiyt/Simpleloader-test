@@ -1,0 +1,15 @@
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\bin\Release\KuroLoader.exe.config
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\bin\Release\KuroLoader.exe
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\bin\Release\KuroLoader.pdb
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\bin\Release\Guna.UI2.dll
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.csproj.AssemblyReference.cache
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.Form1.resources
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.Forms.Form2.resources
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.Forms.Form4.resources
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.Properties.Resources.resources
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.csproj.GenerateResource.cache
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.csproj.CoreCompileInputs.cache
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.csproj.CopyComplete
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.exe
+C:\Users\snipe\Desktop\KuroLoader\KuroLoader\obj\Release\KuroLoader.pdb
